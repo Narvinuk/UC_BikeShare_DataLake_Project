@@ -5,4 +5,7 @@ BikeShare Data Lake Project
 Since the data from Divvy are anonymous, we have generated fake rider and account profiles along with fake payment data to go along with the data from Divvy. The dataset looks like this:</H3>
 
 <H3> Data Sources</H3>:
-<H5> Payments.csv, riders.csv,stations.csv,trips.csv</H5>
+<H5> Payments.csv
+     riders.csv
+     stations.csv
+     trips.csv</H5>
