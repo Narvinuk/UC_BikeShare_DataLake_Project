@@ -6,5 +6,6 @@ Since the data from Divvy are anonymous, we have generated fake rider and accoun
 
 <H3> Data Sources</H3>:
 <H5> Payments.csv  riders.csv  stations.csv      trips.csv</H5>
+![Image description](https://github.com/Narvinuk/Udend_Capstone_Project/blob/master/Capture_DM.JPG)
 
 ![Image description] (https://github.com/Narvinuk/UC_BikeShare_DataLake_Project/blob/main/dm1.PNG)
