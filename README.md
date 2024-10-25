@@ -20,5 +20,5 @@ and payment_fact with amount measure along with dimension keys for rider_id,stat
 <img src="https://github.com/Narvinuk/UC_BikeShare_DataLake_Project/blob/main/dm3.PNG">
 </p>
 Sample Dim and Fact data :
-<img src="https://github.com/Narvinuk/UC_BikeShare_DataLake_Project/blob/main/dm5.PNG">
+<img src="https://github.com/Narvinuk/UC_BikeShare_DataLake_Project/blob/main/dm6.PNG">
 
