@@ -11,9 +11,9 @@ Since the data from Divvy are anonymous, we have generated fake rider and accoun
  <H5> Data Model :</H5>
  <img src="https://github.com/Narvinuk/UC_BikeShare_DataLake_Project/blob/main/dm4.PNG">
 
-<p> This data model design is in star schema model which consist a fact table (trip_fact) with related dimension table dim_rider,dim_paymet and dim_station with calculated measuure like trip
-duration and member_age
+<p> This data model design is in star schema model which consist two fact tables trip_fact   with calculated trip duration and member_age
+and payment_fact with amount measure along with dimension keys for rider_id,station_id and ridetype_id
 <H3>DataStore</H3>
-<img src="https://github.com/Narvinuk/UC_BikeShare_DataLake_Project/blob/main/dm2.PNG">
-
+<img src="https://github.com/Narvinuk/UC_BikeShare_DataLake_Project/blob/main/dm3.PNG">
 </p>
+
